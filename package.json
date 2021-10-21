@@ -1,0 +1,15 @@
+{
+  "name": "easy-invoice-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easyinvoice": "^1.0.148",
+    "express": "^4.17.1"
+  }
+}
